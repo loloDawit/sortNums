@@ -10,14 +10,14 @@ if(x > y && x > z){
     if(y>z){
         console.log(x + "," + y + "," + z);
     }else{
-        // y is less than z
+        // 3,12,0
         console.log(x + "," + z + "," + y);
     }
 }else if(y > x && y > z){
     if(x > z){
         console.log(y + "," + x + "," + z);
     }else{
-        console.log(x + "," + z + "," + x);
+        console.log(y + "," + z + "," + x);
     }
 }else if(z > x && z > y){
     if(x>y){

@@ -4,7 +4,8 @@
   "description": "sort three numbers from user inputs",
   "main": "sortthreenumbers.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sortthreenumbers.js"
   },
   "repository": {
     "type": "git",
